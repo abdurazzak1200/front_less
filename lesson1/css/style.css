@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(255, 255, 224);
+
+}
+
+body {
+    font-family: 'times new roman', palatino linotype, athena, tahoma;
+    font-size: 10pt;
+    color: rgb(0,0,0);
+    text-align: left;
+    margin-left: 20;
+    margin-right: 20;
+    margin-bottom: 3;
+}
+
+h1 {
+    font-size: 12pt;
+    color: rgb(204,0,0);
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 12px;
+}
+
+em {
+    font-style: italic;
+}
+
+.chapter {
+    border-top: 2px solid #999;
+    padding: 20px 0;
+    text-align: center;
+    color: rgb(204,0,0);
+}
