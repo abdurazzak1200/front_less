@@ -21,6 +21,7 @@ h1 {
 }
 
 p {
+    color: blueviolet;
     margin: 20px;
     padding-left: 20px;
     letter-spacing: 2px;
