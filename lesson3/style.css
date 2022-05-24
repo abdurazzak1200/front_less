@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.box {
+    width: 1072px;
+    margin: 20px auto;
+}
+
+.box-content {
+    margin-bottom: 20px;
+}
+
+.content {
+    padding: 20px;
+    display: inline-block;
+    height: 250px;
+    width: 250px;
+    border: 5px dashed #000;
+    text-align: center;
+    vertical-align: middle;
+}
+.content img {
+    width: 150px;
+}
+
+.content1 {
+    background: yellow;
+    margin-right: 20px;
+}
+.content2 {
+    background: green;
+    margin-right: 20px;
+}
+.content3 {
+    background: blue;
+    margin-right: 20px;
+}
+.content4 {
+    background: aqua;
+}
+.content5 {
+    background: aquamarine;
+    margin-right: 20px;
+}
+.content6 {
+    background: bisque;
+    margin-right: 20px;
+}
+.content7 {
+    background: teal;
+    margin-right: 20px;
+}
+.content8 {
+    background: violet;
+}
